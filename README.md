@@ -21,3 +21,7 @@ AS A person responsible for a household
 I WANT TO look up ingredients of recipes
 SO THAT I can estimate costs of my next purchases
 ```
+
+## Reference - used resources
+
+- Button 12 from [https://getcssscan.com/css-buttons-examples](https://getcssscan.com/css-buttons-examples).
