@@ -1,6 +1,6 @@
 # Food search API
 
-Hosting link: [TODO](https://todo.link).
+Hosting link: [https://zsolt-nagy.github.io/recipe-lookup-javascript/](https://zsolt-nagy.github.io/recipe-lookup-javascript/).
 
 ## Description
 
