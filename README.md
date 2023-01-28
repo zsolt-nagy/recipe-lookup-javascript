@@ -25,3 +25,4 @@ SO THAT I can estimate costs of my next purchases
 ## Reference - used resources
 
 - Button 12 from [https://getcssscan.com/css-buttons-examples](https://getcssscan.com/css-buttons-examples).
+- We consider the API response of [https://www.themealdb.com/api/json/v1/1/search.php?s=Pie](https://www.themealdb.com/api/json/v1/1/search.php?s=Pie) to be safe in a sense that we rely on displaying its content using innerHTML. Reasonable XSS (cross-site-scripting) protection was still added to the code.
