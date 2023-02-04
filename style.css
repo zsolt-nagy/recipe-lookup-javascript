@@ -86,6 +86,7 @@ a:active {
 .meal-list-container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 } 
 
 .meal-container {
@@ -95,6 +96,7 @@ a:active {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 300px;
 }
 
 .meal-thumbnail {
